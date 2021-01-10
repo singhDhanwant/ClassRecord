@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassRecord</string>
+    <string name="add_n_subject">Add\n Subject</string>
+    <string name="write_your_subject_name_here">Write Your Subject Name Here</string>
+    <string name="a_database_for_all_your_class_recording_links">A Database for all your class Recording links</string>
+    <string name="LinkName">Link</string>
+    <string name="add_nlink">Add Link</string>
+    <string name="paste_your_link_here">Paste your link here</string>
+</resources>
